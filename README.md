@@ -1,0 +1,1 @@
+This repository contains my ongoing projects as I learn and practice data analysis with Python. The goal is to apply statistical methods, data visualization, and automation to real-world datasets while developing my skills in data science.
